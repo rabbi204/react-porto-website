@@ -11,6 +11,9 @@
     height: 170px;
 }
 
+.product-item img{
+    object-fit: cover;
+}
 .product-item a{
     text-decoration: none;
     color: #333;

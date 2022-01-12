@@ -46,7 +46,7 @@ function Shop() {
                                                     <Card>
                                                         <Card.Img className='product-item-img' src={data.img}></Card.Img>
                                                         <Card.Body>
-                                                            <Card.Title className='name'>{ data.name }</Card.Title>
+                                                            <Card.Title className='name text-truncate'>{ data.name }</Card.Title>
                                                             <Card.Text className='price'>
 
                                                                 { data.sale == '0' ?

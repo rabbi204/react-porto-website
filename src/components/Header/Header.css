@@ -57,12 +57,13 @@
 }
 .header .menu ul li{
     display: inline-block;
+    margin: 0px 5px;
 }
 .header .menu ul li a{
     text-decoration: none;
     display: block;
     color: #1e3799;
-    padding: 10px 20px;
+    padding: 10px 16px;
     transition: .3s;
     border-radius: 4px;
 }
