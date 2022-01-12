@@ -1,0 +1,39 @@
+.team{
+    padding: 50px;
+    /* background-color: #e9e9e9; */
+    background-color: #fff;
+}
+
+.team .team-member img{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+.team .team-member{
+    text-align: center;
+    margin-top: 20px;
+}
+
+.team .team-member h3{
+    font-weight: 700;
+    text-align: center;
+    font-size: 24px;
+}
+
+.team .team-member h4{
+    font-weight: 600;
+    text-align: center;
+    font-size: 18px;
+}
+
+.team .team-member p{
+    text-align: center;  
+    font-weight: 200;
+    font-size: 14px; 
+    width: 70%;
+    margin: auto;
+}
+.team-skeleton{
+    text-align: center;
+}

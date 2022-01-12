@@ -1,0 +1,55 @@
+.shop-siderbar{
+
+}
+
+.shop-siderbar .shop-widget{
+    margin-bottom: 25px;
+}
+.shop-siderbar .shop-widget .shop-widget-title{
+    font-weight: 400;
+    font-size: 24px;
+}
+.shop-siderbar .shop-widget input[type='text']{
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #333;
+    border-radius: 5px;
+}
+
+.widget-list.checklist{
+    padding-left: 20px;
+}
+.widget-list.checklist li{
+    padding: 3px 0px;
+}
+.widget-list.checklist li label{
+   font-weight: 400;
+   font-size: 16px;
+}
+.widget-list.checklist li input{
+    margin-right: 10px;
+}
+
+.widget-list.tag-list{
+    padding-left: 0px;
+}
+.widget-list.tag-list li{
+    display: inline-block;
+    margin: 4px;
+}
+.widget-list.tag-list li a{
+    text-decoration: none;
+    font-weight: 400;
+    display: block;
+    padding: 7px 15px;
+    background-color: #333;
+    color: #fff;
+    border-radius: 5px;
+    border: 1px solid #333;
+    transition: .2s;
+}
+
+.widget-list.tag-list li a:hover{
+    background-color: transparent;
+    color: #333;
+}
